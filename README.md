@@ -1,7 +1,6 @@
 # 🐝 Pollinator-Integrated Vegetable Farming
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-...rest of your README
+![Zeus Bee Logo](generated-image.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Research](https://img.shields.io/badge/Research-2026-blue.svg)]()
@@ -95,16 +94,13 @@ Pollinator-Integrated-Vegetable-Farming/
 ├── README.md                          # You are here
 ├── LICENSE                            # MIT License
 ├── .gitignore                         # Python template
+├── generated-image.png                # Zeus Bee Logo
 ├── docs/
 │   └── full-report.md                # Complete research report
 ├── data/
 │   ├── economic_benefits.csv         # Economic data
 │   ├── crop_dependency.csv           # Crop pollination requirements
 │   └── pollinator_comparison.csv     # Pollinator characteristics
-├── images/
-│   ├── beehives-vegetable-garden.jpg
-│   ├── pollinator-habitat-strips.jpg
-│   └── pollinator-comparison-chart.png
 └── analysis/
     └── data_analysis.py              # Data visualization scripts
 ```
@@ -261,4 +257,3 @@ If you find this resource helpful, please consider starring ⭐ this repository 
 **Made with 🐝 for sustainable agriculture**
 
 *Last updated: January 2026*
-
