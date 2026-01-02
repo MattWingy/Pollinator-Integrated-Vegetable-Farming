@@ -1,5 +1,4 @@
 # 🐝 Pollinator-Integrated Vegetable Farming
-![Zeus Bee Logo](images/generated-image.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ...rest of your README
